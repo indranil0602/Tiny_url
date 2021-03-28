@@ -1,0 +1,6 @@
+POST  http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.lynda.com/Python-tutorials/Python-functions/661773/707224-4.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3apython%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2"
+}
